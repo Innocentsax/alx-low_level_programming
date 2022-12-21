@@ -19,6 +19,6 @@ char *_strcat(char *dest, char *src)
 	for (c2 = 0; src[c2] ; c2++)
 	/*append src[c2] to dest[c] while overwritting the null byte in dest*/
 		dest[c++] = src[c2];
-	
+
 	return (dest);
 }
