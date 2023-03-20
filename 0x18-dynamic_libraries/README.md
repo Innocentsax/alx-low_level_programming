@@ -1,1 +1,3 @@
-Dynamic library. The functions have been previously coded but for this task I created dummy files each containing the approprate prototype as seen in the header file.
+# Dynmic Libraries in c
+![dynamic_libraries](https://calmops.com/images/static-lib.png)
+
