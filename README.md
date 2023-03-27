@@ -24,6 +24,11 @@ Hence, this repo will contain all the solutions I submit for our daily tasks.
 + Doubly_linked_lists
 + Dynamic_libraries
 
+## General Requirements
+* Allowed editors: **vi**, **vim**, **emacs**
+* All files is compiled on **Ubuntu 20.04 LTS using gcc**, using the options **-Wall -Werror -Wextra -pedantic -std=gnu89**
+* All files ends with a new line
+* There is **README.md** file at the root of the **alx-low_level_programming**
 
 ### Author
 ####  *© UDO INNOCENT CHARLES*
