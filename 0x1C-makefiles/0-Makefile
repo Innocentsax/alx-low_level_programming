@@ -1,5 +1,2 @@
-# 0-Makefile
-
-# Rule all: builds the holberton executable file
-all:
-	gcc main.c holberton.c -o holberton
+all: main.c school.c
+	gcc main.c school.c -o school
