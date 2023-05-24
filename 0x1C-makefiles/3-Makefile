@@ -1,0 +1,34 @@
+# 2-Makefile
+
+# Setting variables
+CC = gcc
+SRC = main.c holberton.c
+NAME = holberton
+OBJ = $(SRC:.c=.o) # Substitution References
+RM = rm -f
+
+# Rule all: Build the holberton executable file
+# 1. Implicity rule to updating .o files
+# 2. Then compile with .o files and executable
+all: $(OBJ)
+	$(CC) $(OBJ) -o $(NAME)
+
+# This is declare to making this rules a prerequisite of the special target
+.PHONY: clean oclean fclean re
+
+# Deletes all Emacs and Vim temporary files along with the executable
+clean:
+	$(RM) *~ $(NAME)
+
+# Deletes the object files
+oclean:
+	$(RM) $(OBJ)
+
+# Deletes all Emacs and Vim temporary files, the executable,
+# and the object files
+fclean:
+	$(RM) *~ $(NAME)
+	$(RM) $(OBJ)
+
+# Forces recompilation of all source files
+re: oclean all
