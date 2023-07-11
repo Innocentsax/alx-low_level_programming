@@ -1,6 +1,8 @@
 ## Solutions to C-Programming related tasks
 ___
-![C-programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-GwF6v-KtL0O5FLatYeCnEekhkH9NmxkcQ&usqp=CAU)![C-programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfmV8X-77qSnSrlavouIEpyhASBCrF4bxFwhXq1z0NfvZZmysChvBtazqICk4mdrfnmdk&usqp=CAU)![C-programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScluXi4qa7OKwnFkdNt049WSKW6-Zoa4HREQ&usqp=CAU)
+<!--![C-programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-GwF6v-KtL0O5FLatYeCnEekhkH9NmxkcQ&usqp=CAU)-->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-GwF6v-KtL0O5FLatYeCnEekhkH9NmxkcQ&usqp=CAU" height="300" width="1000">
+<!--![C-programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfmV8X-77qSnSrlavouIEpyhASBCrF4bxFwhXq1z0NfvZZmysChvBtazqICk4mdrfnmdk&usqp=CAU)![C-programming](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScluXi4qa7OKwnFkdNt049WSKW6-Zoa4HREQ&usqp=CAU)-->
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Innocentsax/standard-readme)
 
